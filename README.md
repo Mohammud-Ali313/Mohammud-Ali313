@@ -5,7 +5,7 @@ Passionate Data Science Student | Python | Pandas | NumPy | Machine Learning
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammud-ali313&label=Profile%20views&color=0e75b6&style=flat" alt="mohammud-ali313" />
+<img src="https://komarev.com/ghpvc/?username=mohammud-ali313&label=Profile%20views&color=0e75b6&style=flat" alt="mohammud-ali313"/>
 </p>
 
 - 🌱 I’m currently learning **Data Science, Python, Pandas, NumPy, Machine Learning, Power BI, and Microsoft Excel.**
@@ -16,74 +16,85 @@ Passionate Data Science Student | Python | Pandas | NumPy | Machine Learning
 
 <p align="left">
 <a href="https://www.facebook.com/mohammud.ali.232461" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
 </a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
+---
+
+## 💻 Languages & Tools
 
 <p align="left">
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mohammud-Ali313/Ostad_Ali_Python" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Ostad_Ali_Python" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 </p>
 
-<h3 align="left">Python Libraries:</h3>
+---
+
+## 📚 Python Libraries
 
 <p align="left">
 
-<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank" rel="noreferrer">
-<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+<a href="https://github.com/Mohammud-Ali313/Data_Analysis_with_NumPy_Pandas" target="_blank">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </a>
 
 </p>
+---
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammud-ali313&show_icons=true&locale=en&layout=compact" alt="mohammud-ali313" />
+## 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammud-ali313&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohammud-ali313"/>
 </p>
 
-<p>
-<img align="center" src="https://streak-stats.demolab.com?user=mohammud-ali313" alt="mohammud-ali313" />
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mohammud-ali313&theme=tokyonight" alt="mohammud-ali313"/>
 </p>
