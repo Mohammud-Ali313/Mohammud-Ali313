@@ -85,16 +85,10 @@ Passionate Data Science Student | Python | Pandas | NumPy | Machine Learning
 </p>
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammud-ali313&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohammud-ali313"/>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammud-ali313&show_icons=true&locale=en&layout=compact" alt="mohammud-ali313" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohammud-ali313&theme=tokyonight" alt="mohammud-ali313"/>
+<p>
+<img align="center" src="https://streak-stats.demolab.com?user=mohammud-ali313" alt="mohammud-ali313" />
 </p>
